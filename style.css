@@ -1,0 +1,20 @@
+img {
+    border-radius: 50%;
+    width: 30%;
+    margin-left: 30px;
+  }  
+  h3 {
+    color: aqua;
+    background-color: black;
+  }
+  body{
+    background-color: #B9F3FC;
+  }
+  hr {
+    border-style: dotted none none;
+    width: 30%;
+    border-color: grey;
+  border-width:5px;
+
+  }
+  
